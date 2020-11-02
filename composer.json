@@ -1,5 +1,5 @@
 {
-    "name": "league/omnipay",
+    "name": "sbarale/omnipay",
     "type": "metapackage",
     "description": "Omnipay payment processing library",
     "keywords": [
